@@ -6,3 +6,28 @@
     color:darkblue;
     font-size: 16px;
 }
+
+body{
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.btn{
+    width: 200px;
+    height: 110px;
+    border: 1px;
+    border-radius: 5px;
+    padding: auto;
+}
+
+.passport{
+    background-color: aquamarine;
+}
+
+.visa{
+    background-color: rgb(96, 165, 0);
+}
