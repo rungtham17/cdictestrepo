@@ -4,5 +4,11 @@
 }
 .p--detail {
     color:darkblue;
+<<<<<<< HEAD
     font-size: 16px;
+=======
+}
+container{
+    background-color: aquamarine;
+>>>>>>> 476a230afbe0604522ab31b9426ca659fde38c06
 }
