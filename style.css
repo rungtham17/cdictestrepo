@@ -31,3 +31,18 @@ img {
 .visa{
     background-color: rgb(96, 165, 0);
 }
+
+.containervisa{
+    display:grid; /*caniuse.com ใช้ทดสอบว่า css นั้นใช้ได้กับ browserไหน*/
+    /* grid-template-columns: auto auto auto; */ /*มีกี่คอลัมน์ก็ใส่เข้าไป*/
+    grid-template-columns: auto auto auto;
+    gap:20px;
+    padding:10px;
+    background-color: white;
+    justify-content: baseline;
+}
+.item{
+    padding:2px;
+    background-color: gainsboro;
+    border:1px solid black;
+}
