@@ -1,6 +1,8 @@
-h1 {
-    color:red;
+.h1--title {
+    color:rgb(188, 101, 55);
+    font-size: 24px;
 }
-p {
+.p--detail {
     color:darkblue;
+    font-size: 16px;
 }
